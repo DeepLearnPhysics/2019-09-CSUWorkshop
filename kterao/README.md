@@ -13,7 +13,7 @@ To run this notebook, you need...
 Notebooks in this directory requires:
 
 * Singularity container image [here](https://singularity-hub.org/containers/10509)
-  - `singularity pull shub://DeepLearnPhysics/larcv2-singularity:ub18.04-cuda100-py3-pytorch1.1.0-scn-docker
+  - `singularity pull shub://DeepLearnPhysics/larcv2-singularity:ub18.04-cuda100-py3-pytorch1.1.0-scn-docker`
 
 * `lartpc_mlreco3d` code [special version here](https://github.com/drinkingkazu/lartpc_mlreco3d)
   - `git clone https://github.com/drinkingkazu/lartpc_mlreco3d`

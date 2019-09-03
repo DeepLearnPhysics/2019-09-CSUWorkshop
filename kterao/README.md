@@ -3,7 +3,7 @@
 * To see these notebooks, you might need nbviewer...
   - You can look at the nbviewer [https://nbviewer.jupyter.org/](https://nbviewer.jupyter.org/)
   - [DataVis_iotool.ipynb](https://nbviewer.jupyter.org/github/DeepLearnPhysics/2019-09-CSUWorkshop/blob/master/kterao/DataVis_iotool.ipynb)
-  - [DataVis_forward.ipynb](https://github.com/DeepLearnPhysics/2019-09-CSUWorkshop/blob/master/kterao/DataVis_forward.ipynb)
+  - [DataVis_forward.ipynb](https://nbviewer.jupyter.org/github/DeepLearnPhysics/2019-09-CSUWorkshop/blob/master/kterao/DataVis_forward.ipynb)
   - [TrainLog.ipynb](https://nbviewer.jupyter.org/github/DeepLearnPhysics/2019-09-CSUWorkshop/blob/master/kterao/TrainLog.ipynb)
   - [ConfusionMatrixUResNet.ipynb](https://nbviewer.jupyter.org/github/DeepLearnPhysics/2019-09-CSUWorkshop/blob/master/kterao/ConfusionMatrixUResNet.ipynb)
   

@@ -6,7 +6,7 @@
   - [Pi0 Workshop Data Loader.ipynb](https://nbviewer.jupyter.org/github/DeepLearnPhysics/2019-09-CSUWorkshop/blob/master/drielsma/Pi0%20Workshop%20Data%20Loader.ipynb)
   - [Pi0 Workshop Detector Response.ipynb](https://nbviewer.jupyter.org/github/DeepLearnPhysics/2019-09-CSUWorkshop/blob/master/drielsma/Pi0%20Workshop%20Detector%20Response.ipynb)
   - [Pi0 Workshop UResNet.ipynb](https://nbviewer.jupyter.org/github/DeepLearnPhysics/2019-09-CSUWorkshop/blob/master/drielsma/Pi0%20Workshop%20UResNet.ipynb)
-  - [Pi0 Workshop Pi0 Disribution.ipynd]https://nbviewer.jupyter.org/github/DeepLearnPhysics/2019-09-CSUWorkshop/blob/master/drielsma/Pi0%20Workshop%20Pi0%20Distribution.ipynb)
+  - [Pi0 Workshop Pi0 Disribution.ipynd](https://nbviewer.jupyter.org/github/DeepLearnPhysics/2019-09-CSUWorkshop/blob/master/drielsma/Pi0%20Workshop%20Pi0%20Distribution.ipynb)
   
 To run this notebook, you need...
 

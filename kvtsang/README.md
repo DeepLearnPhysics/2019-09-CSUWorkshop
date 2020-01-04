@@ -1,0 +1,2 @@
+[Data Visualization](https://nbviewer.jupyter.org/github/DeepLearnPhysics/2019-09-CSUWorkshop/blob/master/kvtsang/DataVis_forward.ipynb)
+[Running/Debugging PPN](https://nbviewer.jupyter.org/github/DeepLearnPhysics/2019-09-CSUWorkshop/blob/master/kvtsang/PPN.ipynb)
